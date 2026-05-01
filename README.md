@@ -6,4 +6,4 @@ Just sharing some of the useful powershell commands scripts that I have used for
 
 ### Active Directory PS scripts
 
-### Azure related scripts
+### Azure PS scripts
