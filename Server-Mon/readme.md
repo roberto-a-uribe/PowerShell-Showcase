@@ -1,4 +1,6 @@
 ## Powershell Scripts for Monitoring Services
+1) Check Drive Space
+2) Check Services running
 
 ### 1st Script: Check Drive Space via PS1 script on PS ISE and create an HTML file
 
@@ -18,7 +20,7 @@
 
 
 
-### 2nd Script: Check Drive Space via PS1 script on PS ISE and create an HTML file
+### 2nd Script: Check Server Services
 
 
 
