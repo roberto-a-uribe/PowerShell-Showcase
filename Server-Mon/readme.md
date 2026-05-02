@@ -1,4 +1,4 @@
-# Powershell Scripts for Monitoring Services
+# Powershell Scripts for Monitoring Windows Related Services
 1) Check Drive Space
 2) Check Services running
 
